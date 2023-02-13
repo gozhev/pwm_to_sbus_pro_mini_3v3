@@ -25,9 +25,9 @@ Sketch -> Upload.
 
 Connect directly to the RCIN(SBUS) port of the controller.
 
-WHITE: 3.3V SBUS output  
-RED: 5V power input  
-BLACK: GND  
+TXD pin (arduino pin 1), white: 3.3V SBUS output  
+RAW pin, red: 5V power input  
+GND pin, black: GND  
 
 Arduino pins 2 to 9: PWM inputs.  
 CH1: pin 9  
