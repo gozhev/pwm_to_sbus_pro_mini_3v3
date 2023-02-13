@@ -1,5 +1,17 @@
 ![Connection Diagram](connection_diagram.png "Connection Diagram")
 
+## Requirements
+
+Arduino IDE.  
+Arduino boards package for Arduino IDE.
+
+Arduino Pro Mini 3.3V board.
+
+RC receiver with up to 8 PWM output channels.  
+
+Wires: 24AWG...30AWG.
+
+
 ## Compilation
 
 Run Arduino IDE.  
